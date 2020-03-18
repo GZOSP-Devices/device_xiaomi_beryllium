@@ -25,8 +25,8 @@
   },
   {
     "remote": "github",
-    "repository": "crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-6194136",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-6194136",
+    "repository": "crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-6284175",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-6284175",
     "branch": "10.0"
   }
 ] 
